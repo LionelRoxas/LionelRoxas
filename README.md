@@ -20,8 +20,8 @@ With a blend of technical expertise and entrepreneurial drive, I’m always look
 
 ## 🌟 Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LionelRoxas&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LionelRoxas&layout=compact&theme=radical)  
 
 ---
 
