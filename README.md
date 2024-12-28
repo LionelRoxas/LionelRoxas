@@ -41,13 +41,13 @@ With a blend of technical expertise and entrepreneurial drive, I’m always look
   A class-based project for Software Engineering, deployed with Vercel, Next.js, and NeonDB.
 - 🔗 [Project 7: Point System Manager](https://lionelroxas.github.io/point-system-app-frontend/)  
   My first full-stack application, built with MongoDB, designed to recognize achievements, incentivize participation, and motivate performance.
-- 🔗 [Project 8: Manoa Now Mobile App](https://apps.apple.com/us/app/m%C4%81noa-now/id538671814)
+- 🔗 [Project 8: Manoa Now Mobile App](https://apps.apple.com/us/app/m%C4%81noa-now/id538671814)  
   Built with React Native and Firebase, this app helps UHM students load dining dollars, find jobs, explore the campus map, and more. Available on the App Store!
 - 🔗 [Project 9: Manoa Now Admin Portal](https://manoanow.org/app/admin/)  
   A React and Firebase-powered platform that enables admins to securely manage users and upload dynamic content—such as deals, restaurants, and jobs, to the Manoa Now App.
 - 🔗 [Project 10: UHSPACE Data Hub: 2024 HACC Winner](https://uhspace.org/)  
   A platform built with Next.js, Firebase, and AWS, allowing UH Manoa users to upload, analyze, and visualize CSV data with AI-powered insights and customizable UI options.
-- 🔗 [Project 11: Tochigami Mobile App]()
+- 🔗 [Project 11: Tochigami Mobile App]()  
   An Instagram-clone for the real estate industry, built with React Native, FastAPI, and PostgreSQL.
 - 🔗 [Project 12: Professional Portfolio](https://lionelroxas.github.io/)  
   Built using the Techfolios template
