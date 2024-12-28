@@ -47,7 +47,7 @@ With a blend of technical expertise and entrepreneurial drive, I’m always look
   A React and Firebase-powered platform that enables admins to securely manage users and upload dynamic content—such as deals, restaurants, and jobs, to the Manoa Now App.
 - 🔗 [Project 9: UHSPACE Data Hub: 2024 HACC Winner](https://uhspace.org/)  
   A platform built with Next.js, Firebase, and AWS, allowing UH Manoa users to upload, analyze, and visualize CSV data with AI-powered insights and customizable UI options.
-- 🔗 [Project 10: Tochigami Mobile App]
+- 🔗 [Project 10: Tochigami Mobile App]()
   An Instagram-clone for the real estate industry, built with React Native, FastAPI, and PostgreSQL.
 - 🔗 [Project 11: Professional Portfolio](https://lionelroxas.github.io/)  
   Built using the Techfolios template
