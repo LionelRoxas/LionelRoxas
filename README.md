@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lionel Derrick Roxas  
 
-I'm a passionate **Software Developer** dedicated to crafting innovative solutions with cutting-edge technologies. My focus lies in building projects that solve real-world problems while contributing to open-source communities.  
+I'm a **Junior Software Developer** focused on crafting digital solutions that drive business growth. I turn complex problems into practical software that delivers value. Speed and operational excellence are my defining strengths.
 
 🏆 **Winner of the 2024 Hawai'i Annual Coding Challenge**  
 🚀 Founder of **Haumana Exchange LLC**, a startup empowering the next generation of digital solutions.  
