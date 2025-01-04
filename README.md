@@ -34,7 +34,7 @@ With a blend of technical expertise and entrepreneurial drive, I’m always look
 - 🔗 [Project 2: Brain Tumor Classification: AI-Powered Analysis](https://headstarter-brain-tumor-classification.streamlit.app/?embed_options=dark_theme)  
   A cutting-edge Streamlit application that uses AI to analyze brain MRI scans!
 - 🔗 [Project 3: Customer Churn AI-Powered Prediction](https://headstarter-customer-churn-prediction.streamlit.app/?embed_options=dark_theme)  
-  A Streamlit application that leverages both classical machine learning and generative AI to help banks identify customers at risk of churning.
+  A Streamlit application that leverages both classical machine learning and AI to help identify customers at risk of churning.
 - 🔗 [Project 4: Discord Clone: Real-Time Chat & Video](https://github.com/LionelRoxas/chat-starter)  
   A React frontend with Tailwind CSS, a backend API using Convex, and integrate WebRTC for real-time video and audio.
 - 🔗 [Project 5: Haumana Exchange Marketplace](https://www.haumanaexchange.org/)  
