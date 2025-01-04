@@ -27,7 +27,7 @@ With a blend of technical expertise and entrepreneurial drive, I’m always look
 
 ## 🚀 Projects  
 
-- 🔗 <a href="https://cutthefluff.vercel.app/" target="_blank" rel="noopener noreferrer">Project 0: CutTheFluff - URL Analyzer</a>  
+- 🔗 [Project 0: CutTheFluff - URL Analyzer](https://cutthefluff.vercel.app/) 
   A zero-tolerance AI (Llama 3.1 + Redis) that crushes vague questions. No sources = No help.
 - 🔗 [Project 1: AI-Powered Codebase Assistant](https://headstarter-codebase-rag.streamlit.app/)  
   A Retrieval-Augmented Generation (RAG) tool to explore GitHub repositories.  
